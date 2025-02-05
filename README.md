@@ -1,10 +1,3 @@
-<style>
-  h3 {
-    margin: 0;
-  }
-</style>
-
-
 <h1 align="center">Hi, I'm Joseph <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 
 <p align="center" style="margin-top: -20px;">
